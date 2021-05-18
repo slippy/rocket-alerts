@@ -13,7 +13,6 @@ sender_email = "slipschitz@webadon.com"
 password = getpass.getpass("Type your password and press enter: ")
 
 mailing = {
-    "Rebecca Wolk":"rebecca.wolk@gmail.com",
     "Seth Lipschitz":"sethlipschitz@gmail.com"
 }
 
